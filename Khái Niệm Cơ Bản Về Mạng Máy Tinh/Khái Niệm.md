@@ -1,6 +1,6 @@
 # Chương 1
-
-## 1.1 Giới Thiệu Chung
+## 1.1 Mạng truyền thông và công nghệ mạng
+## 1.1.1 Giới Thiệu Chung
 Truyền thông mạng máy tính ( computer communications ) là quá trình truyền dữ liệu từ thiết bị này sang thiết bị khác, trước đây chúng ta thường hiểu thiết bị là máy tính, nhưng ngày nay thiết bị ( end-system, decive ) không chỉ đơn thuần là máy tính mà bao gồm nhiều chủng loại thiết bị khác, ví dụ điện thoại, máy tính PAM
 - Networking: chỉ khái niệm kết nối các thiết bị lại với nhau nhằm mục đích chia sẻ thông tin.
   - networking liên quan đến nhiều vấn đề, gồm:
@@ -17,7 +17,7 @@ xuất khác nhau có thể làm việc được với nhau.
   - Chuẩn (Standard): Thiết lập các quy tắc và luật lệ cụ thể cần phải tuân theo
 - Trên thực tế, khái niệm mạng xuất hiện ở nhiều kiểu ứng dụng khác nhau. ví dụ, trong công nghiệp giải trí, các công ty truyền thanh, truyền hình và công ty cáp đều có những mạng độc lập của riêng mình với nhiều trạm phát, thông qua những mạng này, các chương trình tin tức, thể thao, điện ảnh, phim truyện...được dùng chung giữa các trạm phát. Mạng truyền thông ra đời sớm nhất và phổ biến nhất là mạng điện thoại. Khi nói đến mạng điện thoại, người ta muôn nhắc đên hệ thống mạng điện thoại kiểu cũ ( plain old telephone system - POTS ) hoặc mạng điện thoại chuyển mạch công cộng ( public switched telephone network - PSTN ). Mạng PSTN mô tả hệ thống điện thoại truyền thống đựa trên tín hiệu tương tự đươc sử dụng để truyền tiếng nói. Một mạng truyền thông khá quen thuộc ngày nay là mạng máy tính Internet - là tập hợp các mạng, hay mạng mạng.
 
-## 1.2 Mạng Máy Tính
+## 1.1.2 Mạng Máy Tính
 - Mạng bao gồm nhiều thành phần, các thành phần được nối với nhau theo một cách thức nào đó và sử dụng chung ngôn ngữ:
 - Các thiết bị đầu cuối (end system) kết nối với nhau tạo thành mạng có thể là các máy tính (computer) hoặc các thiết bị khác. Ngày càng có nhiều loại thiết bị có khả năng kết nối vào mạng máy tính như điện thoại đi động,( PDA- Thiết bị hỗ trợ kỹ thuật số), Tivi,...
 - Môi trường truyền (media) thực hiện việc truyền dẫn các tín hiệu vật lý. Môi trường truyền có thể là các loại dây dẫn ( cáp), sóng (đối với các mạng không dây)
