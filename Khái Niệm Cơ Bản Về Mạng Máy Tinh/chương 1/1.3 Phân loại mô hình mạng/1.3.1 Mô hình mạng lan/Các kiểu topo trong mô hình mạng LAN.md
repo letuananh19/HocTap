@@ -4,6 +4,7 @@ Topology của mạng là cấu trúc hình học không gian mà thực chất 
 
 ### 1. Mạng dạng tuyến ( BUS topology)
 ![alt](https://vnpro.vn/wp-content/uploads/2015/11/H%C3%ACnh-3.3-M%E1%BA%A1ng-d%E1%BA%A1ng-BUS.jpg)
+
 Theo cách bố trí hành lang các đường như hình vẽ thì máy chủ (host) cũng như tất cả các máy tính khác (workstation) hoặc các nút (node) đều được nối về với nhau trên một trục đường dây cáp chính để chuyển ti n tín hiệu. Tất cả các nút đều sử dụng chung đường dây cáp chính này. Phía hai đầu dây cáp được bịt bởi một thiết bị gọi là terminator. Các tín hiệu và gói dữ liệu (packet) khi di chuyển lên hoặc xuống trong dây cáp đều mang theo điạ chỉ của nơi đến
 
 - Ưu điểm:
@@ -16,6 +17,7 @@ Theo cách bố trí hành lang các đường như hình vẽ thì máy chủ (
 
 ### 2. Mạng dạng hình sao (Star topology)
 ![alt](https://vnpro.vn/wp-content/uploads/2015/11/H%C3%ACnh-3.1-M%E1%BA%A1ng-d%E1%BA%A1ng-h%C3%ACnh-sao.jpg)
+
 Mạng dạng hình sao bao gồm một trung tâm và các nút thông tin. Các nút thông tin là các trạm đầu cuối, các máy tính và các thiết bị khác của mạng. Trung tâm của mạng điều phối mọi hoạt động trong mạng với các chức năng cơ bản là:
 - Xác định cặp địa chỉ gửi và nhận được phép chiếm tuyến thông tin và liên lạc với nhau.
 - Cho phép theo dõi và xử lý sai trong quá trình trao đổi thông tin.
@@ -37,6 +39,7 @@ Mạng dạng hình sao bao gồm một trung tâm và các nút thông tin. Cá
 
 ### 3. Mạng dạng vòng (Ring Topology)
 ![alt](https://vnpro.vn/wp-content/uploads/2015/11/H%C3%ACnh-3.2-M%E1%BA%A1ng-d%E1%BA%A1ng-v%C3%B2ng.jpg)
+
 Mạng dạng này, bố trí theo dạng xoay vòng, Các máy tính sẽ kết nối vào 1 thiết bị kiểu dạng giống Switch rồi các Switch đó sẽ nối với nhau tạo thành 1 vòng, tín hiệu được chạy theo 1 chiều cụ thể nào đó. Các tín hiệu truyền cho nhau phải đi lần lượt  và phải kèm theo địa chỉ cụ thể của người tiếp nhận.
 
 - Ưu điểm:
