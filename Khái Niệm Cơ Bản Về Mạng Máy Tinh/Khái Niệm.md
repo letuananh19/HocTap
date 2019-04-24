@@ -1,4 +1,4 @@
-# 1 Mạng Máy Tính
+# Chương 1
 
 ## 1.1 Giới Thiệu Chung
 Truyền thông mạng máy tính ( computer communications ) là quá trình truyền dữ liệu từ thiết bị này sang thiết bị khác, trước đây chúng ta thường hiểu thiết bị là máy tính, nhưng ngày nay thiết bị ( end-system, decive ) không chỉ đơn thuần là máy tính mà bao gồm nhiều chủng loại thiết bị khác, ví dụ điện thoại, máy tính PAM
